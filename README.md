@@ -25,11 +25,11 @@ pip install python3-weather-api
 
 Based on the next 5 days of forecast find the following: 
 
-1.The day that has the highest temperature in the next 5 days of forecast
+  A.The day that has the highest temperature in the next 5 days of forecast
 
-2.The day that has the lowest temperature in the next 5 days of forecast
+  B.The day that has the lowest temperature in the next 5 days of forecast
 
-3.If it will rain the next 5 days inform the user and tell him which day it will rain
+  C.If it will rain the next 5 days inform the user and tell him which day it will rain
 
 
 
