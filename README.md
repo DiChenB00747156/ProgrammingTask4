@@ -60,6 +60,6 @@ License
 MIT
 
 
-**Final Time for submission is 1PM**
+**Final Time for submission is 1:15 PM**
 
 
