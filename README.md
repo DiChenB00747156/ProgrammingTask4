@@ -22,10 +22,12 @@ pip install python3-weather-api
 ### Objectives
 
 1. Get a city from the user and return the current weather "Text" and the current temperature
-2. Based on the next 5 days of forecast find the following: 
-2.1 The day that has the highest temperature in the next 5 days of forecast
-2.2 The day that has the lowest temperature in the next 5 days of forecast
-2.3 If it will rain the next 5 days inform the user and tell him which day it will rain
+
+Based on the next 5 days of forecast find the following: 
+
+1.The day that has the highest temperature in the next 5 days of forecast
+2.The day that has the lowest temperature in the next 5 days of forecast
+3.If it will rain the next 5 days inform the user and tell him which day it will rain
 
 
 
